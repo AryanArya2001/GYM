@@ -1,0 +1,65 @@
+body{
+    background:url('img5.jpg');
+    background-size: 1000px;
+  
+    
+}
+.about{
+    padding: 64px 42px;
+    margin:308px 175px;
+    border-radius: 40px;
+    font-family: 'B612', sans-serif;
+    position: absolute;
+    top : 111px;
+    color:white;
+    border: solid white 2px;
+}
+.about word="Fitness freak"]
+{
+ color:red;
+}
+h1{
+    
+    font-size: 166px;
+    font-family: 'Alegreya', serif;
+    color:white;
+    position: absolute;
+    margin: -117px 23px;
+    text-align: center;
+    top: 203px;
+    left:284px;
+    
+}
+.disc{
+    position: absolute;
+    display: inline-block;
+    margin: -28px 80px;  
+    top: 1187px;
+    right: -45px;
+    padding: 23px 111px;
+    background-color: black;
+    color:whitesmoke ;
+    border:red 2px solid;
+}
+.it{
+    text-align: center;
+    margin:9px 283px;
+    display: inline;
+    padding: 10px 10px;
+    color: magenta;
+    
+    text-decoration: none;
+}
+a{
+    text-underline-position: 10px;
+}
+a:visited{
+    color: white;
+}
+a:hover{
+    color:grey;
+}
+img{
+    height: 20px;
+    width: 20px;
+}

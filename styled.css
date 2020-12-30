@@ -1,0 +1,62 @@
+body{
+    background-color: black;
+}
+.location
+{
+    height: 300px;
+    width: 300px;
+}
+h1{
+    color: white;
+    position: absolute;
+    bottom: 470px;
+    left: 838px;
+    font-size: 50px;
+}
+.ready{
+    color: white;
+    position: absolute;
+    bottom: 245px;
+    left: 622px;
+    font-size: 16px;
+    font-family: 'Alegreya', serif;;
+    
+
+}
+.get{
+    color: white;
+    position: absolute;
+    bottom: 295px;
+    left: 620px;
+    font-size: 18px;
+    font-family: 'Alegreya', serif;
+
+}
+.address{
+    color: white;
+    position: absolute;
+    bottom: 402px;
+    left: 662px;
+    font-size: 24px;
+    font-family: 'Anton', sans-serif;
+
+
+}
+.timing{
+    color: white;
+    position: absolute;
+    bottom: 158px;
+    left:745px;
+    font-size: 30px;
+    font-family: 'Alegreya', serif;
+
+}
+.time{
+    color:white;
+    position: absolute;
+    left:850px;
+    bottom: 40px;
+    font-size: 20px;
+    font-family: 'Anton', sans-serif;;
+
+}
